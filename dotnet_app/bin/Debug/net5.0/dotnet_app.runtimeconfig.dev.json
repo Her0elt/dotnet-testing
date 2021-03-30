@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/hermanoe/.dotnet/store/|arch|/|tfm|",
+      "/home/hermanoe/.nuget/packages"
+    ]
+  }
+}
